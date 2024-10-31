@@ -9,7 +9,5 @@
     "outDir": "./dist"
   },
   "include": ["src/**/*"],
-  "exclude": [
-    "../../../../Downloads/아카이브/kafka_service/node_modules"
-  ]
+  "exclude": ["node_modules"]
 }
